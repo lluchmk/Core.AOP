@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <PackageId>lluchmk.Cache.Core</PackageId>
+    <PackageId>lluchmk.Core.AOP</PackageId>
     <Authors>Kevin Lluch</Authors>
     <Company>Kevin Lluch</Company>
   </PropertyGroup>
