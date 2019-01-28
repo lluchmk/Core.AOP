@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lluchmk/Core.AOP/compare/v1.0.3...v1.1.0) (2019-01-28)
+
+
+### Features
+
+* Update pipeline to use semantic-release-ado instead of exec ([3883342](https://github.com/lluchmk/Core.AOP/commit/3883342))
+
 ## [1.0.3](https://github.com/lluchmk/Core.AOP/compare/v1.0.2...v1.0.3) (2018-12-02)
 
 
